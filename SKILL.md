@@ -19,7 +19,7 @@ Deze skill gaat over de vorm: welke onderdelen erin horen, in welke volgorde, ho
 ## Vaste opbouw van een rapport
 
 1. Omslag: titel, ondertitel, afbeelding, logo's, naam, studentnummer, opleiding, major, instituut, plaats, datum en zo nodig een vertrouwelijkheidslabel.
-2. Titelpagina: hetzelfde, plus studiejaar, versie, status, bron van de afbeelding, de verantwoording van Gen-AI-gebruik, de regel dat het stuk onder verantwoordelijkheid van de Hanzehogeschool is geschreven en dat het copyright bij de auteur ligt.
+2. Titelpagina: hetzelfde, plus studiejaar, versie, status, bron van de afbeelding, de regel dat het stuk onder verantwoordelijkheid van de Hanzehogeschool is geschreven en dat het copyright bij de auteur ligt.
 3. Voorwoord: alleen bij stage en afstuderen. Enige plek met ik-vorm en bedankjes.
 4. Samenvatting: zelfstandig leesbaar, van aanleiding tot conclusie, zonder hoofdstuknummer.
 5. Inhoudsopgave: voorwoord en samenvatting er ongenummerd in.
@@ -72,7 +72,7 @@ De map `references/` bevat het bronmateriaal. De Schrijfwijzer is de basis: die 
 | 25-26 Schrijfwijzer Rapportage ICT_SCMI_def.md | De volledige schrijfwijzer: opbouw, elk rapportonderdeel, taalgebruik, lay-out en de opmaak in cijfers |
 | PPT College 2.1.1. SV NSE introductie 26-27.md | Waarom een rapport, doelgroepen, literatuur, de werkwijze en de noodzakelijke onderdelen |
 | PPT College 2.1.2 SV NSE inleiding 26-27.md | De tien onderdelen van de inleiding, de SMART-doelstelling, operationaliseren en de samenvatting |
-| PPT College 2.1.3 SV NSE brongebruik 26-27.md | APA, Vancouver en IEEE, zoeken, Wikipedia, AI en plagiaat |
+| PPT College 2.1.3 SV NSE brongebruik 26-27.md | APA, Vancouver en IEEE, zoeken, Wikipedia en plagiaat |
 | PPT College 2.1.4 SV NSE Kernhoofdstukken, structuur, stijl en taalverzorging 26-27.md | De zeven stappen van het product, PEE, alinea's en taalverzorging |
 | PPT College 2.1.5 SV NSE Conclusie, Aanbevelingen, Lessons Learned, Samenvatting_26-27.md | De conclusie, de aanbevelingen, de samenvatting en de Lessons Learned |
 | PPT College 2.1.6 SV NSE Herschrijven_26-27.md | Redigeren en de checklists per rapportonderdeel |
