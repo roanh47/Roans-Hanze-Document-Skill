@@ -7,7 +7,7 @@ Een AI-skill met alles wat je nodig hebt om een document voor de Hanzehogeschool
 - De vaste opbouw van een rapport, van omslag tot bijlagen.
 - Opmaakeisen: lettertype, marges, paginanummering vanaf de inleiding, figuren en tabellen.
 - Inleverregels: PDF via het inleverpunt, per mail naar de begeleider, en het rapport is individueel.
-- De stijlregels, met een verwijzing naar `roans-writing-style` voor de toon.
+- De stijlregels voor zakelijk en neutraal schrijven.
 - Valkuilen die in de praktijk misgaan, zoals kop-stijlen in het voorwerk en velden die met F9 bijgewerkt moeten worden.
 
 ## Reference
