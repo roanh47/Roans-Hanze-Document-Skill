@@ -98,9 +98,7 @@ Literatuur mag in een apart hoofdstuk of op de plek waar het onderwerp aan bod k
 
 Citeren: het citaat is herkenbaar door aanhalingstekens of een ingesprongen tekstblok, en de bron staat in de tekst, met paginanummer. Bij een parafrase staan de achternaam en het jaartal in de bronvermelding; bij twee auteurs noem je beide.
 
-Plagiaat is ook het in eigen woorden weergeven van feiten zonder bron. Vermeend plagiaat gaat naar de examencommissie. Ook het klakkeloos overnemen van AI-teksten is plagiaat.
-
-Gen-AI mag gebruikt worden zolang je vermeldt dat en welke tools je hebt gebruikt, je prompts geen auteursrechten, persoonsgegevens of gevoelige informatie bevatten, en je de restricties van de opleiding volgt.
+Plagiaat is ook het in eigen woorden weergeven van feiten zonder bron. Vermeend plagiaat gaat naar de examencommissie.
 
 Citaten mogen samen maximaal 5 procent van de tekst zijn, bijlagen uitgezonderd, tenzij de opdracht anders bepaalt.
 
