@@ -1,0 +1,60 @@
+---
+name: roans-hanze-document-skill
+description: Use when writing any Hanze document (rapport, plan, ontwerp, advies, reflectie) — opbouw, opmaak, inleveren en stijl in één skill.
+version: 0.1.0
+author: Roan Heemstra
+---
+
+# Hanze-documenten
+
+Eén skill voor elk document dat voor de Hanzehogeschool Groningen wordt geschreven: het ICT-rapport, het projectplan, het ontwerp, het onderzoeksverslag, het adviesrapport, de reflectie en de labjournal.
+
+Deze skill gaat over de vorm: welke onderdelen erin horen, in welke volgorde, hoe het eruitziet en hoe het wordt ingeleverd. De stem van de tekst staat in `roans-writing-style`; die twee samen leveren het document op.
+
+## Twee dingen die altijd gelden
+
+1. De vorm volgt de Schrijfwijzer van de opleiding. Wijkt een opdracht af, dan gaat de opdracht voor en noteer je de afwijking.
+2. De toon volgt `roans-writing-style`: korte zinnen, oorzaak en gevolg, geen vage woorden, geen streepjes als leesteken. Een rapport staat in de derde persoon; de ik-vorm hoort alleen in een voorwoord, een reflectie en een labjournal.
+
+## Vaste opbouw van een rapport
+
+1. Omslag: titel, ondertitel, afbeelding, logo's, naam, studentnummer, opleiding, major, instituut, plaats, datum en zo nodig een vertrouwelijkheidslabel.
+2. Titelpagina: hetzelfde, plus studiejaar, versie, status, bron van de afbeelding, de verantwoording van Gen-AI-gebruik, de regel dat het stuk onder verantwoordelijkheid van de Hanzehogeschool is geschreven en dat het copyright bij de auteur ligt.
+3. Voorwoord: alleen bij stage en afstuderen. Enige plek met ik-vorm en bedankjes.
+4. Samenvatting: zelfstandig leesbaar, van aanleiding tot conclusie, zonder hoofdstuknummer.
+5. Inhoudsopgave: voorwoord en samenvatting er ongenummerd in.
+6. Inleiding, hoofdstuk 1.
+7. Literatuur en theorie, los of per paragraaf bij het onderwerp.
+8. Kernhoofdstukken, opgebouwd langs het beroepsproduct.
+9. Conclusie en aanbevelingen.
+10. Advies, alleen als de opdracht daarom vraagt.
+11. Lessons Learned.
+12. Literatuurlijst.
+13. Bijlagen, elke bijlage op een nieuwe pagina, doorlopend genummerd.
+
+## Opmaak
+
+- Calibri 11 of Times New Roman 12, regelafstand 1,15.
+- Marges 2 cm boven en onder, 2,5 cm links en rechts, links uitgelijnd.
+- Elk hoofdstuk op een nieuwe pagina.
+- Figuren met onderschrift, tabellen met bovenschrift, doorlopend genummerd, met bron in het bijschrift.
+- Citaten maximaal 5 procent van de tekst.
+- Paginanummer rechts in de voettekst, pas vanaf de inleiding.
+- Literatuurlijst in één systeem: APA alfabetisch of IEEE genummerd, minimaal drie relevante bronnen. Studiewijzers en projectplannen gelden niet als bron.
+
+## Inleveren
+
+Als PDF via het Inleverpunt en per mail naar de docent, tenzij de opdracht iets anders zegt. Een rapport is individueel, ook wanneer het project in groepen loopt: het groepsproduct staat erin als hoofdstuk, niet als vervanging.
+
+## Valkuilen
+
+- Kop-stijlen in het voorwerk vervuilen de automatische inhoudsopgave. Gebruik daar een vet label en pas Kop 1 toe vanaf de inleiding.
+- Een document met één sectie nummert ook de omslag. Splits de sectie en zet de nummering op 1 bij de inleiding.
+- Inhoudsopgave en paginanummers zijn velden; die moeten in Word met F9 worden bijgewerkt.
+- Een kop kan zijn hele inhoud in één alinea hebben. Tel eerst het aantal alinea's voordat je iets vervangt, anders verdwijnt de rest.
+- Maak een kopie van het bestand voor elke bulkwijziging, zodat het oude woordenaantal na te rekenen is.
+- Casusgegevens nooit invullen zonder bron. Ontbreekt de casus, laat het veld dan tussen vierkante haken staan.
+
+## References
+
+De map `references/` bevat het schoolmateriaal waar deze regels uit komen: de Schrijfwijzer, rubrieken, voorbeelden van beoordeelde documenten en de eisen per opleidingsjaar.
