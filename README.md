@@ -12,7 +12,12 @@ Een AI-skill met alles wat je nodig hebt om een document voor de Hanzehogeschool
 
 ## Reference
 
-In `references/` staan de colleges van het vak Schriftelijke Vaardigheden, omgezet naar leesbare markdown: introductie, inleiding, brongebruik, kernhoofdstukken, conclusie en aanbevelingen, en herschrijven. De SKILL.md verwijst ernaar per onderwerp, zodat alleen de reference laadt die bij de taak hoort.
+In `references/` staat het bronmateriaal:
+
+- `25-26 Schrijfwijzer Rapportage ICT_SCMI_def.md`, de schrijfwijzer van de opleiding: de basis voor de vorm van elk document.
+- Zes uitgewerkte colleges van Schriftelijke Vaardigheden: introductie, inleiding, brongebruik, kernhoofdstukken, conclusie en aanbevelingen, en herschrijven.
+
+De SKILL.md heeft een index die per bestand zegt waar het over gaat, zodat alleen de reference laadt die bij de taak hoort.
 
 ## Gebruik
 
