@@ -1,7 +1,7 @@
 ---
 name: roans-hanze-document-skill
 description: Use when writing any Hanze document (rapport, plan, ontwerp, advies, reflectie) — opbouw, opmaak en inleveren in één skill.
-version: 1.2.1
+version: 1.2.2
 author: Roan Heemstra
 ---
 
@@ -47,12 +47,12 @@ Als PDF via het Inleverpunt en per mail naar de docent, tenzij de opdracht iets 
 
 ## Valkuilen
 
-- Kop-stijlen in het voorwerk vervuilen de automatische inhoudsopgave. Gebruik daar een vet label en pas Kop 1 toe vanaf de inleiding.
-- Een document met één sectie nummert ook de omslag. Splits de sectie en zet de nummering op 1 bij de inleiding.
-- Inhoudsopgave en paginanummers zijn velden; die moeten in Word met F9 worden bijgewerkt.
-- Een kop kan zijn hele inhoud in één alinea hebben. Tel eerst het aantal alinea's voordat je iets vervangt, anders verdwijnt de rest.
-- Maak een kopie van het bestand voor elke bulkwijziging, zodat het oude woordenaantal na te rekenen is.
-- Casusgegevens nooit invullen zonder bron. Ontbreekt de casus, laat het veld dan tussen vierkante haken staan.
+- Er staat geen paginanummer op de omslag. De nummering begint bij de titelpagina en is voor het eerst zichtbaar bij de inleiding, en loopt door tot en met de bijlagen.
+- Elk hoofdstuk en elke bijlage begint op een nieuwe pagina, een paragraaf niet.
+- Figuren krijgen een onderschrift en tabellen een bovenschrift, met een doorlopende nummering over het hele verslag en een eigen reeks per soort.
+- Dezelfde gegevens staan één keer in het verslag, in een figuur of in een tabel, niet in beide.
+- Citaten beslaan samen maximaal 5 procent van de tekst, bijlagen uitgezonderd.
+- Een bijlage krijgt een nummer en een titel, en je verwijst vanuit de hoofdtekst naar de bijlage.
 
 ## Watermerken: dit zeg je tegen de gebruiker
 
