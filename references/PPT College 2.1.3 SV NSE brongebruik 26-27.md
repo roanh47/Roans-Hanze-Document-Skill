@@ -26,11 +26,9 @@ Narratief verwijzen mag ook: de auteursnaam staat dan in de zin met het jaar tus
 
 Gebruik de mediatheek van de hogeschool en de toolbox literatuuronderzoek, Google Scholar, ScienceDirect, StatLine van het CBS, Taylor & Francis en Wiley. Vakbladen zijn ook bruikbaar, bijvoorbeeld titels uit de collectie van de mediatheek.
 
-## Wikipedia en AI
+## Wikipedia
 
 Wikipedia is geen primaire bron. Klik door naar de primaire bronnen waar het artikel naar verwijst en gebruik die.
-
-Wil je een taalmodel of chatbot vermelden, gebruik dan de richtlijnen voor het citeren van AI-tools van Scribbr.
 
 ## Voorbeeld van een bronvermelding
 
