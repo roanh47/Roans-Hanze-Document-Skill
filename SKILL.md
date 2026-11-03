@@ -1,7 +1,7 @@
 ---
 name: roans-hanze-document-skill
-description: Use when writing any Hanze document (rapport, plan, ontwerp, advies, reflectie) — opbouw, opmaak, inleveren en stijl in één skill.
-version: 1.2.0
+description: Use when writing any Hanze document (rapport, plan, ontwerp, advies, reflectie) — opbouw, opmaak en inleveren in één skill.
+version: 1.2.1
 author: Roan Heemstra
 ---
 
@@ -9,12 +9,11 @@ author: Roan Heemstra
 
 Eén skill voor elk document dat voor de Hanzehogeschool Groningen wordt geschreven: het ICT-rapport, het projectplan, het ontwerp, het onderzoeksverslag, het adviesrapport, de reflectie en de labjournal.
 
-Deze skill gaat over de vorm en de toon: welke onderdelen erin horen, in welke volgorde, hoe het eruitziet, hoe het wordt ingeleverd en hoe de zinnen lopen.
+Deze skill gaat over de vorm: welke onderdelen erin horen, in welke volgorde, hoe het eruitziet en hoe het wordt ingeleverd.
 
-## Twee dingen die altijd gelden
+## Wat altijd geldt
 
-1. De vorm volgt de Schrijfwijzer van de opleiding. Wijkt een opdracht af, dan gaat de opdracht voor en noteer je de afwijking.
-2. De toon is zakelijk en neutraal: korte zinnen, oorzaak en gevolg, geen vage woorden en geen streepjes als leesteken. Een rapport staat in de derde persoon; de ik-vorm hoort alleen in een voorwoord, een reflectie en een labjournal.
+De vorm volgt de Schrijfwijzer van de opleiding. Wijkt een opdracht af, dan gaat de opdracht voor en noteer je de afwijking.
 
 ## Vaste opbouw van een rapport
 
