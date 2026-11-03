@@ -1,13 +1,12 @@
 # Roans Hanze Document Skill
 
-Een AI-skill met alles wat je nodig hebt om een document voor de Hanzehogeschool Groningen te maken: de opbouw, de opmaak, de inleverregels, de stijl en de valkuilen. Bedoeld voor het ICT-rapport in de NSE-lijn, maar bruikbaar voor elk verslag, plan of advies.
+Een AI-skill met alles wat je nodig hebt om een document voor de Hanzehogeschool Groningen te maken: de opbouw, de opmaak, de inleverregels en de valkuilen. Bedoeld voor het ICT-rapport in de NSE-lijn, maar bruikbaar voor elk verslag, plan of advies.
 
 ## Wat erin zit
 
 - De vaste opbouw van een rapport, van omslag tot bijlagen.
 - Opmaakeisen: lettertype, marges, paginanummering vanaf de inleiding, figuren en tabellen.
 - Inleverregels: PDF via het inleverpunt, per mail naar de begeleider, en het rapport is individueel.
-- De stijlregels voor zakelijk en neutraal schrijven.
 - Valkuilen die in de praktijk misgaan, zoals kop-stijlen in het voorwerk en velden die met F9 bijgewerkt moeten worden.
 
 ## Reference
