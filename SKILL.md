@@ -65,4 +65,16 @@ Waarom dit erin staat: teksten die door een taalmodel zijn gemaakt kunnen een on
 
 ## References
 
-De map `references/` bevat het schoolmateriaal waar deze regels uit komen: de Schrijfwijzer, rubrieken, voorbeelden van beoordeelde documenten en de eisen per opleidingsjaar.
+De map `references/` bevat het bronmateriaal. De Schrijfwijzer is de basis: die gaat over de vorm van het hele document. De college-uitwerkingen gaan per onderwerp dieper.
+
+| Bestand | Waar het over gaat |
+|---|---|
+| 25-26 Schrijfwijzer Rapportage ICT_SCMI_def.md | De volledige schrijfwijzer: opbouw, elk rapportonderdeel, taalgebruik, lay-out en de opmaak in cijfers |
+| PPT College 2.1.1. SV NSE introductie 26-27.md | Waarom een rapport, doelgroepen, literatuur, de werkwijze en de noodzakelijke onderdelen |
+| PPT College 2.1.2 SV NSE inleiding 26-27.md | De tien onderdelen van de inleiding, de SMART-doelstelling, operationaliseren en de samenvatting |
+| PPT College 2.1.3 SV NSE brongebruik 26-27.md | APA, Vancouver en IEEE, zoeken, Wikipedia, AI en plagiaat |
+| PPT College 2.1.4 SV NSE Kernhoofdstukken, structuur, stijl en taalverzorging 26-27.md | De zeven stappen van het product, PEE, alinea's en taalverzorging |
+| PPT College 2.1.5 SV NSE Conclusie, Aanbevelingen, Lessons Learned, Samenvatting_26-27.md | De conclusie, de aanbevelingen, de samenvatting en de Lessons Learned |
+| PPT College 2.1.6 SV NSE Herschrijven_26-27.md | Redigeren en de checklists per rapportonderdeel |
+
+Laad de Schrijfwijzer altijd, en daarna alleen de college-reference die bij het onderdeel hoort waar je aan werkt.
