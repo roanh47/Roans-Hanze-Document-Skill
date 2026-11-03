@@ -1,7 +1,7 @@
 ---
 name: roans-hanze-document-skill
 description: Use when writing any Hanze document (rapport, plan, ontwerp, advies, reflectie) — opbouw, opmaak, inleveren en stijl in één skill.
-version: 0.1.0
+version: 1.0.0
 author: Roan Heemstra
 ---
 
